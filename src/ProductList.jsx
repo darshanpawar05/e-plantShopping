@@ -1,3 +1,5 @@
+import React from "react";
+
 function ProductList() {
   const products = [
     { id: 1, name: "Aloe Vera", price: 10 },
@@ -8,6 +10,7 @@ function ProductList() {
   return (
     <div>
       <h2>Product List</h2>
+
       {products.map(product => (
         <div key={product.id}>
           <h3>{product.name}</h3>
