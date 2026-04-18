@@ -4,21 +4,20 @@ function AboutUs() {
       <h1>About Paradise Nursery</h1>
 
       <p>
-        Welcome to Paradise Nursery, your one-stop destination for beautiful
-        indoor and outdoor plants. We are passionate about bringing nature
-        closer to your home.
+        Welcome to Paradise Nursery, your trusted destination for a wide
+        variety of indoor and outdoor plants. We aim to bring nature closer
+        to your home and create a peaceful environment.
       </p>
 
       <p>
-        Our mission is to provide high-quality plants that improve your living
-        space and promote a healthier lifestyle. We carefully select plants
-        that are easy to maintain and perfect for all environments.
+        Our mission is to provide high-quality plants that are easy to
+        maintain and suitable for all kinds of spaces. We believe plants
+        improve health, mood, and overall lifestyle.
       </p>
 
       <p>
-        Whether you are a beginner or a plant enthusiast, Paradise Nursery
-        offers a wide range of plants to suit your needs. We aim to make plant
-        shopping simple, enjoyable, and accessible to everyone.
+        At Paradise Nursery, we offer carefully selected plants and ensure
+        customer satisfaction by providing reliable and affordable products.
       </p>
     </div>
   );
